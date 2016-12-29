@@ -1,0 +1,153 @@
+{
+  "skill": [
+    {
+      "id": 1,
+      "category": "规范",
+      "name": "HTML4、HTML5、ES5、ES6、CommonJS、CMD、AMD等",
+      "time": "1年",
+      "level": "了解"
+    },
+    {
+      "id": 2,
+      "category": "框架",
+      "name": "Jquery、Zepto、AngularJs、Recat、Avalon等",
+      "time": "2年",
+      "level": "熟悉"
+    },
+    {
+      "id": 3,
+      "category": "框架",
+      "name": "Mui、Yo、Ionic等",
+      "time": "2年",
+      "level": "熟悉"
+    },
+    {
+      "id": 4,
+      "category": "类库",
+      "name": "Swiper、Iscroll等",
+      "time": "2年",
+      "level": "熟悉"
+    },
+    {
+      "id": 5,
+      "category": "插件",
+      "name": "Jquery menu plugin、Jquery nav plugin、zepto emoji-expression-plugin等",
+      "time": "2年",
+      "level": "熟悉"
+    },
+    {
+      "id": 6,
+      "category": "布局",
+      "name": "Fixed、Fulid、Flex、Responsive",
+      "time": "3年",
+      "level": "精通"
+    },
+    {
+      "id": 7,
+      "category": "程序",
+      "name": "Javascript原生、Jquery及Zepto插件、AngularJs等",
+      "time": "3年",
+      "level": "精通"
+    }
+  ],
+  "work": [
+    {
+      "id": 1,
+      "category": "设计大赛",
+      "name": "宿州学院",
+      "url": "http://www.ahszu.edu.cn/",
+      "images1": "images/sy.jpg",
+      "images2": "images/sy_1.jpg",
+      "images3": "images/school_3.jpg",
+      "time": "2013年-2014年",
+      "posts": "信息工程IT创新实验室",
+      "reportto": "篮球仿真，仿真救援，5 VS 5等",
+      "peoples": "两名老师和三名学长以及我们同级三位同学",
+      "projects": "c#、LabVIEW等"
+    },
+    {
+      "id": 2,
+      "category": "民营企业",
+      "name": "浙江珍诚医药股份有限公司",
+      "url": "http://www.zc511.net/",
+      "images1": "images/school_1.jpg",
+      "images2": "images/school_2.JPG",
+      "images3": "images/school_3.jpg",
+      "time": "2010年-2015年",
+      "posts": "技术总监",
+      "reportto": "总经理",
+      "peoples": "30",
+      "projects": "zc511.com、53118.com、learn511.com、珍诚掌上医药、客户B2C项目手机版、业务员管理系统等"
+    },
+    {
+      "id": 3,
+      "category": "私营企业",
+      "name": "睿眼通（上海）信息科技有限公司",
+      "url": "http://www.ruiyantong.com/",
+      "images1": "images/school_1.jpg",
+      "images2": "images/school_2.JPG",
+      "images3": "images/school_3.jpg",
+      "time": "2015年-2016年",
+      "posts": "技术总监",
+      "reportto": "总经理",
+      "peoples": "2",
+      "projects": "ruiyantong.com、zhengjiaotong.com、政教通App等"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "category": "电商类平台",
+      "name": "ZOL商城",
+      "url": "http://www.zol.com/",
+      "images": "images/ZOL_1.png",
+      "description": "ZOL商城购物平台,详细介绍了ZOL商城的主要情况,可供购买各式各样的东西，主要包括手机、电脑、摄像机等电器",
+      "detail": "长期维护，功能迭代，主要处理前端页面及程序嵌套，当时并未要求移动端适配，故该商城只适应于PC端应用",
+      "tech": "HTML、CSS2、CSS3、HTML5、Javascript、Jquery等"
+    },
+    {
+      "id": 2,
+      "category": "企业门户",
+      "name": "江苏新众亚货架制造有限公司",
+      "url": "http://xzyrack00mbt.b2b.huangye88.com/",
+      "images": "images/xzy.png",
+      "description": "新众亚货架制造有限公司主营:横梁层板货架,悬臂流利货架,自动化立体库穿梭货架,阁楼平台驶入式货架",
+      "detail": "项目初建耗时4周，包括平台整体UI改进以及功能模块的增加与性能的优化，还有长期的维护",
+      "tech": "Html5、Css3、Javascript、Jquery、Java等"
+    },
+    {
+      "id": 3,
+      "category": "平台门户",
+      "name": "网上药博会",
+      "url": "http://www.53118.com/",
+      "images": "images/school_1.jpg",
+      "description": "网上药博会，网上药品及药企展览平台",
+      "detail": "项目初建耗时4月，从需求到页面设计，从页面设计到前端实现，从页面实现到功能开发和集成，从本地测试到平台上线等全程处理",
+      "tech": "Html、Css2、Javascript、Jquery、Coldfusion等"
+    },
+    {
+      "id": 4,
+      "category": "移动平台",
+      "name": "政教通",
+      "url": "http://www.zhengjiaotong.com/",
+      "images": "images/school_1.jpg",
+      "description": "儿童健康成长护航者",
+      "detail": "项目初建耗时3月，主要包括数据支撑平台的建设、移动端Hybrid模式的应用及开发",
+      "tech": "Html5、Css3、Jquery、AngularJs、Java等"
+    }
+  ],
+  "me": [
+    {
+      
+      "images": "images/touxiang.jpg",
+      "name": "周琴",
+      "name_miaoshu": "妹子一枚",
+      "school": "宿州学院",
+      "profession": "软件工程",
+      "evaluate": "性格开朗，拥有强大的佛挡杀佛性格开朗，拥有强大的佛挡杀佛",
+      "tel": "18895730103",
+      "qq": "1044987073",
+      "erweima": "images/weixin.jpg"
+    }
+  ]
+}
